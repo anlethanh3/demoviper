@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo VIPER</string>
+    <string name="type_your_username">Type your username</string>
+    <string name="type_your_password">type your password</string>
+    <string name="login">Login</string>
+    <string name="welcome_home">Welcome to home screen</string>
+    <string name="account">anlt - 123</string>
+    <string name="logout">Logout</string>
+    <string name="back">Press BACK again to exit</string>
+</resources>
